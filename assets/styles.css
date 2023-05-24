@@ -31,12 +31,12 @@ body {
 }
 
 .sabah-btn {
-  background-image: url("../assets/images/sabah-flag.svg");
+  background-image: url("../../assets/images/sabah-flag.svg");
   background-size: 100% 100%;
 }
 
 .sabah-col {
-  background-image: url("../assets/images/sabah-bg.jpg");
+  background-image: url("../../assets/images/sabah-bg.jpg");
   background-size: 100% 100%;
   border-radius: 10%;
   height: 80vh;
@@ -44,7 +44,7 @@ body {
 }
 
 .sarawak-col {
-  background-image: url("../assets/images/sarawak.jpg");
+  background-image: url("../../assets/images/sarawak.jpg");
   background-size: 100% 100%;
   border-radius: 10%;
   height: 80vh;
