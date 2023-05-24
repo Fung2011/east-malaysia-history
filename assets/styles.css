@@ -1,0 +1,62 @@
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+  min-height: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  background-image: url("/assets/images/background-body.jpg");
+  background-repeat: no-repeat;
+  background-size: 180% 180%;
+  border-radius: 10%;
+  height: 100vh;
+  font-family: "Noto Sans SC", sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+#sabah,
+#sarawak {
+  padding: 5% 20% 0 20%;
+  height: 180vh;
+}
+
+.btn {
+  font-size: 2rem;
+}
+
+.row {
+  height: 100vh;
+}
+
+.sabah-btn {
+  background-image: url("/assets/images/sabah-flag.svg");
+  background-size: 100% 100%;
+}
+
+.sabah-col {
+  background-image: url("/assets/images/sabah-bg.jpg");
+  background-size: 100% 100%;
+  border-radius: 10%;
+  height: 80vh;
+  margin: auto;
+}
+
+.sarawak-col {
+  background-image: url("/assets/images/sarawak.jpg");
+  background-size: 100% 100%;
+  border-radius: 10%;
+  height: 80vh;
+  margin: auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+.home-btn {
+  display: inline-block;
+  width: 35px;
+  margin-bottom: 30px;
+}
