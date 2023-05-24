@@ -6,7 +6,7 @@ html {
 }
 
 body {
-  background-image: url("../assets/images/background-body.jpg");
+  background-image: url("../../assets/images/background-body.jpg");
   background-repeat: no-repeat;
   background-size: 180% 180%;
   border-radius: 10%;
